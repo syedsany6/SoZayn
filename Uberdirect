@@ -1,0 +1,16 @@
+{
+    "pickup": {
+        "address": "Your Restaurant Address",
+        "contact": {
+            "name": "Restaurant Name",
+            "phone": "Restaurant Phone"
+        }
+    },
+    "dropoff": {
+        "address": "Customer Address",
+        "contact": {
+            "name": "Customer Name",
+            "phone": "Customer Phone"
+        }
+    }
+}
